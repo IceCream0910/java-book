@@ -1,7 +1,5 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "index": "반가워요",
+  "intro": "Java는 무엇인가?",
+  "install": "Java 설치하기"
 }
